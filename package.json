@@ -1,0 +1,25 @@
+{
+  "name": "todolistapp",
+  "version": "1.0.0",
+  "description": "rest api with node js performing CRUD operations with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutul24591/todorest.git"
+  },
+  "keywords": [
+    "RESTAPI",
+    "TODO",
+    "NODE",
+    "MONGO"
+  ],
+  "author": "Olatunde Garuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutul24591/todorest/issues"
+  },
+  "homepage": "https://github.com/rutul24591/todorest#readme"
+}
